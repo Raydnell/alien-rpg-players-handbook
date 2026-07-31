@@ -3,3 +3,5 @@ description: Краткий справочник по правилам ALIEN RPG
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
+plugins:
+  - jekyll-seo-tag
