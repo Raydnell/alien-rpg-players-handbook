@@ -2,6 +2,7 @@
 layout: default
 title: Навыки
 nav_order: 2
+search: true
 ---
 
 # Захват
