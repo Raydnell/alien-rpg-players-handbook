@@ -1,5 +1,4 @@
 ---
 title: "Навыки"
-nav_order: 4
-parent: "Главная"
+nav_order: 5
 ---
