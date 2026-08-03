@@ -1,9 +1,5 @@
 title: ALIEN RPG — Шпаргалка для игроков
 description: Краткий справочник по правилам ALIEN RPG для быстрого доступа во время игры
 markdown: kramdown
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-minima:
-  skin: solarized-dark
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
