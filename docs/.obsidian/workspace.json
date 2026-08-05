@@ -11,13 +11,242 @@
             "id": "e818ddb2b3ff61b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/fire.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "fire"
+            }
+          },
+          {
+            "id": "61418ed7090d9bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/acid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "acid"
+            }
+          },
+          {
+            "id": "48e5b6987e59eca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/explosion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "explosion"
+            }
+          },
+          {
+            "id": "4b12820d9ba0119c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/radiation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "radiation"
+            }
+          },
+          {
+            "id": "afb411b5a864dd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/disease.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "disease"
+            }
+          },
+          {
+            "id": "88ab921ef2f2d779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/vacuum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vacuum"
+            }
+          },
+          {
+            "id": "349b464af57dcd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/hungry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hungry"
+            }
+          },
+          {
+            "id": "e2cb82b85be983d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/thirst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thirst"
+            }
+          },
+          {
+            "id": "abc59a4ff694474e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/falling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "falling"
+            }
+          },
+          {
+            "id": "3375569597975313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/cold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cold"
+            }
+          },
+          {
+            "id": "132e7b94fffc69b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/overwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overwork"
+            }
+          },
+          {
+            "id": "525e003e0b275c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base-mechanics/suffocation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "suffocation"
+            }
+          },
+          {
+            "id": "e887b6716b28518d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "equipment/food-drinks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "food-drinks"
+            }
+          },
+          {
+            "id": "c0360eb4b3a95b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "equipment/meds-items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meds-items"
+            }
+          },
+          {
+            "id": "ec8ed8c091f0d747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "equipment/operating-systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "operating-systems"
+            }
+          },
+          {
+            "id": "5f9b9af6cf696327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "equipment/vehicles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vehicles"
+            }
+          },
+          {
+            "id": "142080d0dd375be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "equipment/electronic-equipment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electronic-equipment"
             }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -95,6 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,33 +413,35 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e818ddb2b3ff61b7",
+  "active": "142080d0dd375be4",
   "lastOpenFiles": [
-    "fight.md",
-    "index.md",
-    "professions.md",
-    "skills.md",
-    "char-general.md",
-    "char-creation.md",
-    "fight/sneaky.md",
-    "fight/injures.md",
-    "fight/initiative.md",
+    "equipment/vehicles.md",
+    "equipment/electronic-equipment.md",
+    "equipment/view-tools.md",
+    "equipment/operating-systems.md",
+    "equipment/data-storages.md",
+    "equipment/medical-equipment.md",
+    "equipment/meds-items.md",
+    "equipment/tools.md",
+    "equipment/food-drinks.md",
+    "equipment/armor.md",
+    "equipment/weapons-details.md",
+    "equipment/weapons.md",
     "fight/fight-range-combar.md",
-    "fight/fight-general.md",
-    "fight/actions.md",
-    "skills/vitality.md",
     "skills/range-combat.md",
-    "skills/survival.md",
-    "skills/piloting.md",
-    "skills/perseption.md",
-    "skills/leader.md",
-    "skills/information.md",
-    "skills/influence.md",
-    "skills/heavy-machine.md",
-    "skills/first-aid.md",
-    "skills/dexterity.md",
-    "skills/close-combar.md",
-    "profs/worker.md",
-    "profs/scientist.md"
+    "equipment/radiant-bullets.md",
+    "char-creation.md",
+    "stress.md",
+    "skills.md",
+    "stress",
+    "base-mechanics/acid.md",
+    "base-mechanics/drowning.md",
+    "base-mechanics/suffocation.md",
+    "base-mechanics/overwork.md",
+    "base-mechanics/cold.md",
+    "base-mechanics/falling.md",
+    "base-mechanics/thirst.md",
+    "base-mechanics/hungry.md",
+    "base-mechanics"
   ]
 }

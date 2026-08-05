@@ -1,1 +1,6 @@
-{}
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "readableLineLength": false
+}
