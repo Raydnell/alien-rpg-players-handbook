@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synths.md",
+                "file": "base-mechanics/vehicle-rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "synths"
+              "title": "vehicle-rules"
             }
           }
         ],
@@ -203,37 +203,37 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f6064ff5e715e9d7",
+  "active": "ac96c8ed81651a85",
   "lastOpenFiles": [
-    "synths/synths-general.md",
+    "base-mechanics/explosion.md",
+    "base-mechanics/vehicle-rules.md",
+    "equipment/vehicles.md",
+    "home-rules.md",
+    "equipment/weapons.md",
+    "fight/actions.md",
+    "fight/fight-general.md",
+    "fight/fight-range-combar.md",
+    "equipment/weapons-details.md",
+    "character/health.md",
+    "skills/first-aid.md",
+    "character/Первая помощь.md",
+    "character/injures.md",
     "synths.md",
+    "synths/synths-general.md",
     "stress/panic.md",
     "stress/psy-trauma.md",
     "stress/stress-level.md",
     "stress.md",
     "character/dice-rolls.md",
-    "base-mechanics/Без названия.md",
     "home-rules",
     "synths",
-    "home-rules.md",
     "index.md",
     "base-mechanics.md",
     "fight.md",
     "skills.md",
     "professions.md",
     "character.md",
-    "char-general.md",
-    "character/char-creation.md",
-    "character/resources.md",
-    "character/expirience.md",
-    "character/inventory.md",
-    "character/health.md",
     "character",
-    "base-mechanics/explosion.md",
-    "base-mechanics/falling.md",
-    "equipment/weapons-details.md",
-    "equipment/weapons.md",
-    "equipment/view-tools.md",
     "stress",
     "base-mechanics"
   ]
