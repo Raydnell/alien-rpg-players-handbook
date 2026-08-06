@@ -1,4 +1,4 @@
 ---
-title: "Навыки"
-nav_order: 5
+title: Навыки
+nav_order: 4
 ---

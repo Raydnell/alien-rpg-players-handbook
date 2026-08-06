@@ -1,4 +1,4 @@
 ---
 title: Стресс и паника
-nav_order: 9
+nav_order: 7
 ---

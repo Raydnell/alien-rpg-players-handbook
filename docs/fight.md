@@ -1,4 +1,4 @@
 ---
-title: "Сражение"
-nav_order: 6
+title: Сражение
+nav_order: 5
 ---
