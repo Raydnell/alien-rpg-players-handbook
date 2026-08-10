@@ -1,0 +1,53 @@
+---
+---
+
+// Импортируем базовую светлую тему, чтобы не переопределять всё с нуля
+@import "./color_schemes/dark";
+
+// Палитра Nord (https://www.nordtheme.com/)
+$nord0:  #2E3440; // Полярная ночь (самый темный)
+$nord1:  #3B4252;
+$nord2:  #434C5E;
+$nord3:  #4C566A;
+$nord4:  #D8DEE9; // Снежная буря (самый светлый)
+$nord5:  #E5E9F0;
+$nord6:  #ECEFF4;
+$nord7:  #8FBCBB; // Мороз (акцентные)
+$nord8:  #88C0D0;
+$nord9:  #81A1C1;
+$nord10: #5E81AC;
+$nord11: #BF616A; // Северное сияние (акцентные)
+$nord12: #D08770;
+$nord13: #EBCB8B;
+$nord14: #A3BE8C;
+$nord15: #B48EAD;
+
+// Основные цвета фона и текста
+$body-background-color: $nord6 !default;
+$body-heading-color: $nord0 !default;
+$body-text-color: $nord1 !default;
+
+// Цвет ссылок
+$link-color: $nord9 !default;
+
+// Цвета боковой панели (sidebar)
+$sidebar-color: $nord5 !default;
+$nav-child-link-color: $nord1 !default;
+
+// Цвета для кода
+$code-background-color: $nord4 !default;
+$code-text-color: $nord0 !default;
+
+// Цвета кнопок
+$btn-primary-color: $nord10 !default;
+$base-button-color: $nord4 !default;
+
+// Цвета таблиц
+$table-background-color: $nord6 !default;
+$table-header-background-color: $nord5 !default;
+$table-border-color: $nord4 !default;
+
+// Дополнительные настройки для улучшения читаемости
+$feedback-color: darken($sidebar-color, 3%);
+$search-background-color: $body-background-color;
+$search-result-preview-color: $nord2;

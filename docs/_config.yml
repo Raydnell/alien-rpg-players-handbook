@@ -4,3 +4,4 @@ markdown: kramdown
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 search_enabled: true
 baseurl: "/alien-rpg-players-handbook"
+color_scheme: nord
