@@ -1,53 +1,44 @@
 ---
 ---
 
-// Импортируем базовую тёмную тему (без точки с запятой)
 @import "./color_schemes/dark"
 
-// Палитра Nord (https://www.nordtheme.com/)
-$nord0:  #2E3440; // Полярная ночь (самый темный)
-$nord1:  #3B4252;
-$nord2:  #434C5E;
-$nord3:  #4C566A;
-$nord4:  #D8DEE9; // Снежная буря (самый светлый)
-$nord5:  #E5E9F0;
-$nord6:  #ECEFF4;
-$nord7:  #8FBCBB; // Мороз (акцентные)
-$nord8:  #88C0D0;
-$nord9:  #81A1C1;
-$nord10: #5E81AC;
-$nord11: #BF616A; // Северное сияние (акцентные)
-$nord12: #D08770;
-$nord13: #EBCB8B;
-$nord14: #A3BE8C;
-$nord15: #B48EAD;
+$nord0:  #2E3440
+$nord1:  #3B4252
+$nord2:  #434C5E
+$nord3:  #4C566A
+$nord4:  #D8DEE9
+$nord5:  #E5E9F0
+$nord6:  #ECEFF4
+$nord7:  #8FBCBB
+$nord8:  #88C0D0
+$nord9:  #81A1C1
+$nord10: #5E81AC
+$nord11: #BF616A
+$nord12: #D08770
+$nord13: #EBCB8B
+$nord14: #A3BE8C
+$nord15: #B48EAD
 
-// Основные цвета фона и текста (для тёмной темы)
-$body-background-color: $nord0 !default;
-$body-heading-color: $nord6 !default;
-$body-text-color: $nord4 !default;
+$body-background-color: $nord0 !default
+$body-heading-color: $nord6 !default
+$body-text-color: $nord4 !default
 
-// Цвет ссылок
-$link-color: $nord8 !default;
+$link-color: $nord8 !default
 
-// Цвета боковой панели (sidebar)
-$sidebar-color: $nord1 !default;
-$nav-child-link-color: $nord4 !default;
+$sidebar-color: $nord1 !default
+$nav-child-link-color: $nord4 !default
 
-// Цвета для кода
-$code-background-color: $nord2 !default;
-$code-text-color: $nord6 !default;
+$code-background-color: $nord2 !default
+$code-text-color: $nord6 !default
 
-// Цвета кнопок
-$btn-primary-color: $nord10 !default;
-$base-button-color: $nord2 !default;
+$btn-primary-color: $nord10 !default
+$base-button-color: $nord2 !default
 
-// Цвета таблиц
-$table-background-color: $nord0 !default;
-$table-header-background-color: $nord1 !default;
-$table-border-color: $nord2 !default;
+$table-background-color: $nord0 !default
+$table-header-background-color: $nord1 !default
+$table-border-color: $nord2 !default
 
-// Дополнительные настройки для улучшения читаемости
-$feedback-color: lighten($sidebar-color, 5%);
-$search-background-color: $body-background-color;
-$search-result-preview-color: $nord4;
+$feedback-color: lighten($sidebar-color, 5%)
+$search-background-color: $body-background-color
+$search-result-preview-color: $nord4
